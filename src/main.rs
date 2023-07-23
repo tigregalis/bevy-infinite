@@ -179,10 +179,6 @@ fn setup(mut commands: Commands) {
     );
 }
 
-
-9_223_372_036_854_775_807
-7_500_000_000_000_000_000
-
 /// 10 world_position per 1 bevy translation unit
 const WORLD_SCALE: i64 = 10;
 
